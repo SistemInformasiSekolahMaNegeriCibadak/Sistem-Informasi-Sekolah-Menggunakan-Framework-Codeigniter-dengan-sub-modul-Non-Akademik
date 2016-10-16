@@ -1,0 +1,46 @@
+BAB II
+
+LANDASAN TEORI
+2.1	Sistem Informasi
+2.1.1	Pengertian Sistem
+Menurut Jugianto,2005,1 (Dalam Buku Analisa dan Desain sistem Informasi)sistem adalah suatu jaringan kerja dari prosedur-prosedur yang saling berhubungan, berkumpul bersama-sama untuk melakukan suatu kegiatan atau untuk menyelesaikan suatu sasaran yang tertentu.
+Sebuah sistem merupakan piranti penting dan sangat dibutuhkan oleh suatu perusahaan atau instansi resmi. Hal ini karena dengan adanya sistem yang terintegrasi, kinerja suatu perusahaan atau instansi akan lebih terarah dan sistematis. Namun untuk mendapatkan dampak positif dari penggunaan sistem, semua unsur – unsur yang terkait didalamnya harus berkerja sama guna mencapai tujuan yang sudah ditentukan sebelumnya.
+Sistem secara umum dapat didefinisikan sebagai kumpulan hal atau elemen yang saling bekerja sama atau yang dihubungkan dengan cara-cara tertentu sehingga membentuk satu kesatuan untuk melaksanakan suatu fungsi guna mencapai suatu tujuan. Sistem mempunyai karakteristik atau sifat – sifat tertentu, yaitu : Komponen Sistem, Batasan Sistem, Lingkungan Luar Sistem, Penghubung Sistem, Masukan Sistem, Keluaran Sistem, Pengolahan Sistem dan Sasaran Sistem.[1]
+
+2.1.1	Pengertian Informasi
+Secara etimologi, informasi merupakan kata atau istilah yang berasal dari  informacion (Bahasa Perancis Kuno, tahun 1387). Sedangkan dalam bahasa Latin, informasi berasal dari kata Informationem yang mempunyai arti sebagai konsep ide  atau garis besar. Dari kedua pengertian tersebut, dapat disimpulkan bahwa informasi merupakan suatu pengetahuan yang dapat dikomunikasikan dengan metode tertentu.
+Menurut Azhar Susanto(2004:46) menyatakan bahwa informasi adalah hasil pengolahan data yang memberikan arti dan manfaat. Azhar Susanto (2004:46) Sistem Informasi Akuntansi. [2]
+
+2.2	Codeigniter
+CI adalah framework pemrograman umum Web yang bisa dipakai untuk mengembangkan semua jenis aplikasi Web. Dikarenakan lebih ringan dan dilengkapi dengan mekanisme caching yang canggih, CI sangat cocok untuk pengembangan aplikasi dengan lalu lintas tinggi, seperti portal, forum, dll. [6]
+2.3	HTML ( Hyper Text Markup Language)
+Menurut Shelly, Woods, Dorin (2010:8), Halaman web dibuat menggunakan Hyper Text Markup Language (HTML), yang merupakan bahasa authoring yang digunakan untuk membuat dokumen World Wide Web (www). HTML menggunakan set instruksi khusus yang disebut tag atau markup untuk menentukan struktur dan tata letak dokumen web, dan menetukan bagaimana halaman ditampilkan di browser. [4]
+
+2.4	XAMPP
+Menurut Nugroho, B (2008:2) XAMPP adalah suatu bundel web server yang popular digunakan untuk coba-coba di Windows karena kemudahan instalasinya. Bundel program open source tersebut berisi antara lain server web, Apache, interpreter PHP, dan basis data MySQL. [9]
+
+2.5	UML
+Unified Modeling Language (UML) merupakan salah satu alat bantu yang dapat digunakan dalam bahasa pemograman yang berorientasi objek, saat ini UML akan mulai menjadi standar masa depan bagi industri pengembangan sistem/perangkat lunak yang berorientasi objek sebab pada dasarnya UML digunakan oleh banyak perusahaan raksasa seperti IBM, Microsoft, dan sebagainya. Unified Modeling Language (UML) juga merupakan sebuah bahasa yang berdasarkan grafik atau gambar untuk menvisualisasikan, menspesifikasikan, membangun dan pendokumentasian dari sebuah sistem pengembangan perangkat lunak berbasis Objek (OOP/Object Oriented Programming). [10]
+
+2.6	PHP
+PHP adalah script untuk pemrograman script web server-side, script yang membuat dokumen HTML secara on the fly, dokumen HTML yang dihasilkan dari suatu aplikasi bukan dokumen HTML yang dibuat dengan menggunakan editor teks atau editor HTML.
+Dengan menggunakan PHP maka maintenance suatu situs web menjadi lebih mudah. Proses update data dapat dilakukan dengan menggunakan aplikasi yang dibuat dengan menggunakan script PHP.
+PHP/FI merupakan nama awal dari PHP. PHP merupakan singkatan dari Personal Home Page dan FI adalah singkatan dari Form Interface. Dibuat pertama kali oleh Rasmus Lerdoff. PHP, awalnya merupakan program CGI yang dikhususkan untuk menerima input melalui form yang ditampilkan dalam browser web.Software ini disebarkan dan dilisensikan sebagai perangkat lunak Open Source. PHP secara resmi merupakan kependekan dari PHP: HyperText Preprocessor, merupakan bahasa script server-side yang disisipkan pada HTML.[5]
+
+2.7	Bootstrap
+Berdasarkan kutipan Husein Alatas (2013:2) Bootstrap merupakan framework maupun tools untuk memudahkan aplikasi web ataupun situs web responsive secara cepat, mudah dan gratis. Bootstrap sendiri terdiri dari CSS dan HTML untuk menghasilkan grid, layout, typography, table, form, navigation dan lain-lain. Didalam bootstrap juga sudah terdapat jquery plugin untuk menghasilkan komponen UI yang cantik seperti transitions, modal, dropdown, scrollspy, tooltip, tab, popover, alert, button, carousel dan lain-lain. [7]
+
+2.8	Mozilla Firefox
+Mozilla Firefox adalah gratis dan open source  browser web turun dari Mozilla Application Suite dan dikelola oleh Mozilla Corporation. Pada maret 2012, firefox memiliki sekitar 25% dari seluruh dunia pangsa pengguna web browser, sehingga browser yang paling banyak digunakan ketika, menurut perkiraan yang berbeda. Browser telah sukses tertentu di Indonesia, Jerman, dan Polandia, di mana itu adalah browser yang paling populer dengan 67%, 50% dan 44% dari pangsa pasar masing-masing.
+Untuk menampilkan halaman web, Firefox menggunakan Gecko layout engine, yang mengimplementasikan terbaru standar web selain beberapa fitur yang dimaksudkan untuk mengantisipasi kemungkinan penambahan ke standar. 
+Firefox berjalan pada berbagai sistem operasi termasuk Microsoft Windows, Linux , Mac OS X , FreeBSD , dan platform lainnya. Rilis stabil saat ini adalah versi 11.0, dirilis pada 13 Maret 2012.
+Saat ini (Maret 2012), Firefox 12 beta rilis di saluran "Beta", Firefox 13 alpha rilis dalam saluran "Aurora", dan Firefox 14 (32-bit) pra-alpha rilis dalam "Nightly membangun "saluran. [3]
+
+2.9	MySQL
+MySQL adalah sebuah perangkat lunak sistem manajemen basis data SQL (bahasa Inggris: database management system) atau DBMS yang multithread, multi-user, dengan sekitar 6 juta instalasi di seluruh dunia. MySQL AB membuat MySQL tersedia sebagai perangkat lunak gratis dibawah lisensi GNU General Public License (GPL), tetapi mereka juga menjual dibawah lisensi komersial untuk kasus-kasus dimana penggunaannya tidak cocok dengan penggunaan GPL.
+Tidak sama dengan proyek-proyek seperti Apache, dimana perangkat lunak dikembangkan oleh komunitas umum, dan hak cipta untuk kode sumber dimiliki oleh penulisnya masing-masing, MySQL dimiliki dan disponsori oleh sebuah perusahaan komersial Swedia MySQL AB, dimana memegang hak cipta hampir atas semua kode sumbernya. Kedua orang Swedia dan satu orang Finlandia yang mendirikan MySQL AB adalah: David Axmark, Allan Larsson, dan Michael "Monty" Widenius.
+MySQL adalah sebuah implementasi dari sistem manajemen basisdata relasional (RDBMS) yang didistribusikan secara gratis dibawah lisensi GPL (General Public License). Setiap pengguna dapat secara bebas menggunakan MySQL, namun dengan batasan perangkat lunak tersebut tidak boleh dijadikan produk turunan yang bersifat komersial. MySQL sebenarnya merupakan turunan salah satu konsep utama dalam basisdata yang telah ada sebelumnya; SQL (Structured Query Language). SQL adalah sebuah konsep pengoperasian basisdata, terutama untuk pemilihan atau seleksi dan pemasukan data, yang memungkinkan pengoperasian data dikerjakan dengan mudah secara otomatis.
+Kehandalan suatu sistem basisdata (DBMS) dapat diketahui dari cara kerja pengoptimasi-nya dalam melakukan proses perintah-perintah SQL yang dibuat oleh pengguna maupun program-program aplikasi yang memanfaatkannya. Sebagai peladen basis data, MySQL mendukung operasi basisdata transaksional maupun operasi basisdata non-transaksional. Pada modus operasi non-transaksional, MySQL dapat dikatakan unggul dalam hal unjuk kerja dibandingkan perangkat lunak peladen basisdata kompetitor lainnya. Namun demikian pada modus non-transaksional tidak ada jaminan atas reliabilitas terhadap data yang tersimpan, karenanya modus non-transaksional hanya cocok untuk jenis aplikasi yang tidak membutuhkan reliabilitas data seperti aplikasi blogging berbasis web (wordpress), CMS, dan sejenisnya. Untuk kebutuhan sistem yang ditujukan untuk bisnis sangat disarankan untuk menggunakan modus basisdata transaksional, hanya saja sebagai konsekuensinya unjuk kerja MySQL pada modus transaksional tidak secepat unjuk kerja pada modus non-transaksional. [8]
+
+2.10	Pengujian Blackbox
+Pengujian blackbox testing merupakan pengujian yang diturunkan dari spesifikasi program atau komponen. Sistem merupakan kontak hitam yang perilakunya hanya dapat ditentukan dengan mempelajari input dan ditentukan dengan mempelajari input dan output yang berkaitan. Blackbox testing memfokuskan pada kebutuhan fungsional dari software. Pengujian ini memperbolehkan software engineer menurunkan sejumlah input yang ditunjukkan untuk menguji kebutuhan fungsional dari suatu program. [11]
