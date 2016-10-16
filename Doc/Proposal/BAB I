@@ -1,0 +1,46 @@
+BAB I
+
+PENDAHULUAN
+
+1.1	Latar Belakang
+Perkembangan teknologi pada saat ini sangatlah pesat, banyak sekali hasil dari perkembangan teknologi seperti kemajua mesin-mesin, komputer, dan salah satunya  teknologi internet. Teknologi internet merupakan sebuah jaringan alat komunikasi yang menhubungkan kita dengan dunia yang luas yang biasa disebut dunia maya. Pada zaman sekarang teknologi internet sudah banyak dikenal orang, sering kali masyarakat dunia menggunakan teknologi internet untuk bahan mencari referensi serta mencari informasi yang kongkrit. Maka dari itu teknologi internet sangatlah dibutuhkan oleh masyarakat dunia.
+Pendidikan adalah salah satu bidang yang mendapatkan dampak yang cukup berarti dengan perkembangan teknologi internet. Dimana pada dasarnya pendidikan merupakan suatu proses komunikasi dan informasi dari pendidikan kepada peserta didik yang berisi informasi – informasi pendidikan, yang memiliki unsur pendidik sebagai sumber informasi, media sebagai sarana penyajian ide dan juga gagasan.
+MA Negeri Cibadak Kab.Sukabumi merupakan salah satu Sekolah Menengah Atas Negeri yang beralamatkan di Jl.Suryakencana Km 02 PO BOX 11, Cibadak, Sukabumi, Jawa Barat. MA Negeri Cibadak Kab.Sukabumi seperti halnya SMA pada umumnya di Indonesia masa pendidikan sekolah di MA Negeri Cibadak Kab.Sukabumi ditempuh dalam waktu jenjang pendidikan tiga tahun pelajaran, mulai dari kelas X sampai dengan kelas XII.
+Sebuah proses system non akademik MA Negeri Cibadak Kab.Sukabumi mulai dari penginputan data non akademik sekolah seperti informasi organisasi ekstrakulikuker sekolah, proram kerja organisasi, dan data informasi kegiatan ekstrakulikuler sekolah. Dalam system informasi MA Negeri Cibadak masih menggunakan metode manualisasi, sehingga data yang akan diinformasikan masih dalam keadaan ditulis dikertas, ditempel dimading sekolah dan biasanya akan rusak bahkan akan hilang. Dengan adanya masalah tersebut, dibutuhkan sebuah sistem dimana system tersebut dapat menyimpan data informasi non akademik secara optimal dan tidak terjadi redudansi antar data informasi akademik yang disimpan. Selain itu sebuah system yang dibutuhkan pada sekolah tersebut berguna sebagai penginputan data informasi sekolah (MAN Cibadak Kab.Sukabumi) yang bertujuan untuk memudahkan staff dalam penginputan data non akademik siswa. Dengan ini, sistem yang akan dibuat menggunakan bahasa pemrograman web yaitu PHP dan penyimpanannya dengan menggunakan database MySql. Tujuan dari pembuatan ini untuk memberikan kemudahan kepada pengelola, siswa dan para calon siswa baru dalam mendapatkan sebuah informasi. Oleh sebab itu tema yang diambil dalam Proyek 2 ini dengan judul : “ Pengembangan Sistem Informasi Sekolah (MAN Cibadak Kab.Sukabumi) Menggunakan Framework Codeigniter Sub Modul Non Akademik.”
+
+1.2	Identifikasi Masalah
+Berdasarkan latar belakang diatas, maka dapat disimpulkan perumusan masalah yaitu:
+1.	Data informasi non akademik yang disimpan masih menggunakn metode secara manual, data infromasi ditulis didalam buku dan didokumentasikan  sehingga data informasi yang disimpan tersebut kurang tertata rapih dan sering sekali terjadi redudansi bahkan hilang begitu saja.
+2.	Data informasi yang dipublikasikan masih berupa kertas yang ditempel pada mading sekolah seperti (informasi organisasi ekstrakulikuler, informasi kegiatan ekstrakulikuler, dan data anggota ekstrakulikuler), sehingga informasi yang dipublikasikan kepada para siswa dan guru menjadi kurang akurat, dan terkadang minat parasiswa maupun guru dalam membaca masih kurang. 
+3.	Kurangnya media teknologi pada sekolah tersebut menjadi alasan mengapa suatu informasi yang akan dipublikasikan menjadi kurang optimal.
+
+1.3	Tujuan
+Berdasarkan rumusan masalah diatas, maka tujuan dari pengembangan system informasi sekolah ini yaitu:
+1.	Sebagai media teknologi yang akurat untuk menyimpan suatu informasi penting pada sekolah.
+2.	Sehingga informasi yang sudah ada dalam system bisa di akses dengan mudah tanpa adanya kekeliruan dalam memunculkan informasi sekolah tersebut.
+3.	Memudahkan pengelola untuk bisa menginput data informasi ataupun mencari suatu informasi yang sangat penting.
+
+1.4	Ruang Lingkup
+Agar penelitian berjalan dengan baik dan terarah, maka harus ada batasan masalah dalam ruang lingkup penelitian. Adapun pembatasan masalah penelitian ini yaitu:
+1.	Pengembangan sistem informasi sekolah (MAN Cibadak Kab.sukabumi) ini  hanya sebatas penambahan informasi akademik yaitu informasi organisasi ekstrakulikuler, data kegiatan ekstrakulikuler, dan data anggota ekstrakulikuler.
+2.	Ruang lingkup perancangan website ini menggunakan Framework Codeigniter sebagai Bahasa pemrograman dan Mysql sebagai DBMS, serta windows sebagai sistem informasinya.
+3.	Data yang digunakan dalam mengembangkan sistem informasi sekolah ini adalah yaitu informasi organisasi ekstrakulikuler, data kegiatan ekstrakulikuler, dan data anggota ekstrakulikuler.
+4.	Sistem Informasi sekolah yang dibangun merupakan jenis web portal.
+
+1.5	Sistematika Penulisan
+Penyajian laporan proyek dibagi menjadi beberapa bab dengan tujuan untuk mempemudah pencarian data atau informasi yang dibutuhkan, serta menunjukan penyelesaian pekerjaan yang sistematis. Pembagian bab tersebut adalah sebagai berikut :
+
+BAB I PENDAHULUAN
+Pada bab I ini dibahas mengenai latar belakang yang berisi usulan ringkas mengenai keadaan atau kondisi yang ada sehingga muncul topik yang diambil. Dalam bab I juga terdapat identifikasi masalah yang berisi berbagai masalah yang sudah dikenali dan akan diberikan solusinya melalui fungsi dan aplikasi yang dibuat. Pada bab ini juga berisi tujuan yang ingin dicapai dalam pembuatan aplikasi, dan manfaat penulisan serta bab ini juga dibuat ruang lingkup pada pembuatan aplikasi ini dan sistematika penulisan yaitu suatu penjabaran secara deskriptif tentang hal-hal yang akan ditulis.
+
+BAB II LANDASAN TEORI
+Pada bab ini akan dijelaskan mengenai teori – teori yang digunakan sebagai panduan pada perancangan sistem informasi sekolah dalam membantu penelitian.
+
+BAB III ANALISIS DAN PERANCANGAN
+Pada bab ini menjelaskan tentang perancangan Sistem Informasi Sekolah (MAN Cibadak Kab.Sukabumi) Menggunakan Framework Codeigniter yang merupakan topik yang diangkat. Pada bab ini dijelaskan setiap kebutuhan fungsional sistem informasi ini beserta diagram alir data serta spesifikasi proses. Pada perancangan dijelaskan bagaimana sistem tersebut dibangun. Perancangan ini memaparkan mengenai rancangan data, antar muka tampilan (interface) dan flowchart.
+
+BAB IV IMPLEMENTASI DAN PENGUJIAN
+Bab ini membahas tentang aplikasi yang dibuat dan menjelaskan secara rinci komponen – komponen pendukung dan pengujian aplikasi yang dibuat sesuai dengan rancangan. Selain itu, akan membahas tentang pengujian aplikasi yang dibuat.
+
+BAB V KESIMPULAN DAN SARAN
+Pada bab ini berisi pencapaian tujuan dari aplikasi yang dibuat, dan berisi hal –hal atau tujuan dari pembuatan aplikasi yang belum sempurna atau tidak tercapai.
